@@ -1,0 +1,10 @@
+$body-color: rgb(153, 28, 230);
+
+body {
+  background-color: #acacac;
+  h1 {
+    color: $body-color;
+    font-size: 40px;
+    display: flex;
+  }
+}
